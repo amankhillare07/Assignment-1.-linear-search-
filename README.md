@@ -1,4 +1,5 @@
-# Assignment-1.-linear-search-
+//Assignment-1.-linear-search-
+
 #include <iostream>
 using namespace std;
 
@@ -15,7 +16,6 @@ int linearSearch(int arr[], int size, int key) {
 int main() {
     int size;
 
-    // Accept the size of the array
     cout << "Enter the size of the array: ";
     cin >> size;
 
