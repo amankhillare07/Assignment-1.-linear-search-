@@ -1,4 +1,4 @@
-//Assignment-1.-linear-search-
+//Assignment-1.-linear-search
 
 #include <iostream>
 using namespace std;
